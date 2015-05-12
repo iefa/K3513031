@@ -1,6 +1,6 @@
 <?php
 //Tambah komentar oleh K3513031 (KHOLIFA ARTIKATAMA)
-
+//Tambah komentar oleh teman, K3513067
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
